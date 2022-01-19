@@ -1,0 +1,18 @@
+let userName = prompt("Как тебя зовут?")
+console.log (userName)
+let aa = prompt("Сколько вам лет?")
+console.log (aa)
+let ss = prompt("Любимый цвет?")
+console.log (ss)
+let dd = prompt("Маму любишь?")
+console.log (dd)
+alert ("Гы)" + "Я тоже")
+let hh = prompt("Ну а папу?")
+console.log (hh)
+let ff = prompt("Займёшь сотку?")
+console.log (ff)
+let gg = prompt("Имя лучшего друга?")
+console.log (gg)
+alert ("Добро пожаловать," + userName + ", на наш сайт" )
+
+
